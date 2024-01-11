@@ -148,3 +148,113 @@ padding: 0px 0px 0px 140px;
     padding: 0px 24px 24px 0px;
 
 }
+.end{
+    border-radius: 16px;
+    background: rgba(255, 0, 0, 0.05);
+    width: 1320px;
+    height: 616px;
+    margin: 120px 140px;
+}
+.icon-1{
+    padding: 80px 585px 0px 585px;
+}
+.end-title{
+    color: #070211;
+    text-align: center;
+    font-family: Merriweather;
+    font-size: 48px;
+    font-weight: 900;
+    
+}
+.end-dis{
+    color: rgba(7, 2, 17, 0.60);
+    
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 400;
+    width: 896px;
+    text-align: center;
+    padding: 0px 212px;
+}
+.end-but{
+    color: #FFF;
+    text-align: center;
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 600;
+
+    text-transform: capitalize;   
+    background: #F00;
+    border-radius: 0px 50px 50px 0px;
+    width: 210px;
+    height: 77px;
+    position: absolute;
+}
+.end-tx{
+    
+    font-family: Inter;
+    font-size: 18px;
+    font-weight: 400;
+
+    width: 438px;
+    height: 72px;
+    background: #FFF;
+    border-radius: 50px 0px 0px 50px;
+}
+
+.foot{
+    background: #070211;
+    width: 1600px;
+    height: 609px;
+}
+
+.foot-add{
+
+    color: #FFF;
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 40px; 
+    text-align: left;
+    width: 375px;
+    height: 70px;
+    padding: 120px 0px 50px 20px;
+
+
+}
+div{
+
+  
+
+
+}
+
+.div1{
+    color: #FFF;
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+    width: 195px;
+    float: right;
+    padding: 0px 290px 0px 0px ;
+    
+}
+.div2{
+    color: #FFF;
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+    width: 210px;
+}
+.part-iii {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+.endd{
+    color: #FFF;
+
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+}
